@@ -4,5 +4,12 @@ p {
 }
 
 h2 {
-    background-color: purple;
+    background-color: gray;
+    font-family: fantasy;
+    text-align: center;
+}
+button {
+    text-align: center;
+    color: blueviolet;
+    border-radius: 5px;
 }
